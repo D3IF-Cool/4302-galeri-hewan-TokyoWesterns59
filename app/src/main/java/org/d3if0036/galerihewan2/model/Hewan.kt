@@ -1,4 +1,4 @@
-package org.d3if0036.galerihewan2
+package org.d3if0036.galerihewan2.model
 
 data class Hewan (
     val nama: String,
